@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="hex_black">HEX: #000000</string>
+    <string name="change_image">Change image</string>
+    <string name="rgb_black">RGB: 0,0,0</string>
+</resources>
